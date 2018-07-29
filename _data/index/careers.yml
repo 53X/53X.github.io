@@ -1,18 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: IIIT-Delhi
-    i18n: 
-  desc:
-    detail: LCS2 Research Group headed by Prof. Dr. Tanmoy Chakraborty 
-    i18n: 
-  date:
-    detail: December 2017
-    i18n: company_a_date
-  job:
-    detail: Research Intern
-    i18n: 
-  icon: fa-plus-square
+
 
 - name:
     detail: IIIT-Delhi
@@ -32,7 +20,7 @@
     detail: Gratia Technology 
     i18n: 
   desc:
-    detail: 
+    detail: s
     i18n: 
   date:
     detail: Jun. 2018
@@ -42,3 +30,17 @@
     i18n: 
   icon: 
 
+
+- name:
+    detail: IIIT-Delhi
+    i18n: 
+  desc:
+    detail: LCS2 Research Group headed by Prof. Dr. Tanmoy Chakraborty 
+    i18n: 
+  date:
+    detail: December 2017
+    i18n: company_a_date
+  job:
+    detail: Research Intern
+    i18n: 
+  icon: fa-plus-square
