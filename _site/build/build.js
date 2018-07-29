@@ -44,7 +44,7 @@ function compressjs(pagename, filename, filelist) {
     });
 
     fs.writeFileSync('static/assets/' + filename, result.code);
-    console.log(pagename.green + " js files compress succeed. You can find it at \"static/assets\".\n".green);
+    console.log(pagename.black + " js files compress succeed. You can find it at \"static/assets\".\n".black);
 }
 
 // compress css files function
@@ -76,7 +76,7 @@ function compresscss(pagename, filename, filelist) {
     }).minify(result.styles);
 
     fs.writeFileSync('static/assets/' + filename, output.styles);
-    console.log(pagename.green + " css files compress succeed. You can find it at \"static/assets\".\n".green);
+    console.log(pagename.black + " css files compress succeed. You can find it at \"static/assets\".\n".black);
 }
 
 for (i = 0; i < CSSJSfiles.length; i++) {

@@ -2,19 +2,11 @@
 
 label: Expertise
 id : cs
-aspects: Deep Learning, NLP, Computer vision, Machine Learning
-percentage: 80, 80, 70, 80
+aspects: Deep Learning, NLP, Computer vision, Machine Learning,Keras, Tensorflow, NLTK, Numpy,  Pandas, Scikit-Learn, Matplotlib,Python, C, C++, Git
+percentage: 80, 90, 70, 80, 80, 60, 70, 70, 70, 80, 70,80, 70, 70, 70
 
 
-label : Libraries Used
-id : cs1
-aspects: Keras, Tensorflow, NLTK, Numpy,  Pandas, Scikit-Learn, Matplotlib
-percentage : 80, 60, 70, 70, 70, 80, 70
 
-label : Languages
-id: cs2
-aspects: Python, C, C++, Git
-percentage: 80, 70, 70, 70
 
 
 

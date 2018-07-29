@@ -1,0 +1,20 @@
+# skills section data
+
+label: Expertise
+id : cs
+aspects: Deep Learning, NLP, Computer vision, Machine Learning
+percentage: 80, 90, 70, 80
+
+
+label : Libraries Used
+id : cs
+aspects: Keras, Tensorflow, NLTK, Numpy,  Pandas, Scikit-Learn, Matplotlib
+percentage : 80, 60, 70, 70, 70, 80, 70
+
+label : Languages
+id: cs
+aspects: Python, C, C++, Git
+percentage: 80, 70, 70, 70
+
+
+
