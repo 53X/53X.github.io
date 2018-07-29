@@ -7,12 +7,12 @@ percentage: 80, 80, 70, 80
 
 
 label : Libraries Used
-id : cs
+id : cs1
 aspects: Keras, Tensorflow, NLTK, Numpy,  Pandas, Scikit-Learn, Matplotlib
 percentage : 80, 60, 70, 70, 70, 80, 70
 
 label : Languages
-id: cs
+id: cs2
 aspects: Python, C, C++, Git
 percentage: 80, 70, 70, 70
 
